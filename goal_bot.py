@@ -8,7 +8,7 @@ import logging
 import os
 
 # Вставь сюда свой токен
-BOT_TOKEN = "7751726615:AAGQQ6KpVykBTfDytrEbArUZwWmx6Rc0RPc"
+BOT_TOKEN = "7618469271:AAFG0ZArQcZxMXfWAr4OQ2s0XPZRa6ZAW9Y"
 
 # Включаем логирование (чтобы видеть ошибки в консоли)
 logging.basicConfig(level=logging.INFO)
